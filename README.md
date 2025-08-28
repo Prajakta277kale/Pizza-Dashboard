@@ -64,6 +64,7 @@ Sales by Pizza Size (Stacked Bar Chart) – Contribution of S, M, L, XL, XXL siz
 🎯 Marketing Strategy – Design promotions around slow-moving categories or sizes.
 
 6. Screenshots / Demo
+   https://github.com/Prajakta277kale/Pizza-Dashboard/blob/main/Pizza%20Sale%20Home%20Page.png
    
 
 
