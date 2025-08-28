@@ -63,6 +63,9 @@ Sales by Pizza Size (Stacked Bar Chart) – Contribution of S, M, L, XL, XXL siz
 🕒 Operational Efficiency – Plan resources for peak demand hours.
 🎯 Marketing Strategy – Design promotions around slow-moving categories or sizes.
 
+6. Screenshots / Demo
+   
+
 
 
 
